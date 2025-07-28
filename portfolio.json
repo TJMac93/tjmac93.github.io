@@ -1,0 +1,8 @@
+{
+    "name": "Tom MacNamara",
+    "label": "Data Scientist",
+    "image_path": "portfolio_media/profile.jpg",
+    "contact": {
+        "email": "tjmac93@proton.me",
+        "location":"Dublin, Ireland",
+        "linkedIn": "linkedin.com"}}
